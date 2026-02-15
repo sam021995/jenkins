@@ -17,7 +17,7 @@ pipeline {
             }
         }
 
-        stage('Deploy') {
+        stage('Deploy123') {
             steps {
                 echo 'Deploying application...'
                 sh 'echo Deploy step executed'
